@@ -1,1 +1,2 @@
 # podcastapp
+This project is a podcast player app built using Kotlin programming language. The app allows users to browse and listen to their favourite podcasts on their mobile devices. The app provides a user-friendly interface with features such as play a  episodes for offline listening. A project that demonstrates the use of Android Jetpack Compose to build a UI for a podcast player app. The app allows users to choose, play and pause podcasts.
